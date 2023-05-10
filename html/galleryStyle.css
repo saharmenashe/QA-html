@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: monospace;
+    background-color: aquamarine;
+}
+
+
+img{
+    border-radius: 5px;
+    border-color: black;
+    width: 400px;
+    height: 400px;
+}
